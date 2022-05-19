@@ -2,15 +2,12 @@
 questions = [
   "Does Framework have a new CPU yet?",
   "Do we know when Framework will be releasing new mainboards?",
-  "Are there any available Ryzen CPUs for the Framework laptop?"
 ];
 
 answers = [
-  "No",
-  "Nope",
-  "Nah",
-  "No way",
-  "Nuh uh"
+  "Yep",
+  "Yes",
+  "Yeah"
 ];
 
 window.onload = function () {
