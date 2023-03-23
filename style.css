@@ -35,6 +35,10 @@ h1 {
   margin-bottom: 1rem;
 }
 
+ul {
+  list-style-type: none;
+}
+
 @keyframes bgcolor {
   0% {
     background-color: #c2bebb;
