@@ -6,7 +6,7 @@
 
 body {
   background-color: gray;
-  animation: bgcolor 9s infinite linear;
+  animation: bgcolor 12s infinite linear;
 }
 
 div.content {
@@ -39,8 +39,14 @@ h1 {
   0% {
     background-color: #c2bebb;
   }
+  10% {
+    background-color: #c2bebb;
+  }
   50% {
     background-color: #f47448;
+  }
+  90% {
+    background-color: #c2bebb;
   }
   100% {
     background-color: #c2bebb;
