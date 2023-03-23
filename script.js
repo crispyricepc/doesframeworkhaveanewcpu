@@ -5,9 +5,7 @@ questions = [
 ];
 
 answers = [
-  "Yep",
-  "Yes",
-  "Yeah"
+  "Maybe?",
 ];
 
 window.onload = function () {
