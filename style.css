@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: skyblue;
+  background-color: gray;
+  animation: bgcolor 9s infinite linear;
 }
 
 div.content {
@@ -32,4 +33,16 @@ h1 {
   font-size: 8rem;
   margin-top: 0.5rem;
   margin-bottom: 1rem;
+}
+
+@keyframes bgcolor {
+  0% {
+    background-color: #c2bebb;
+  }
+  50% {
+    background-color: #f47448;
+  }
+  100% {
+    background-color: #c2bebb;
+  }
 }
